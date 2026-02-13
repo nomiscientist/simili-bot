@@ -25,14 +25,14 @@ go.work
 go.work.sum
 
 # env file
-.env
 
 # Editor/IDE
 # .idea/
 # .vscode/
-.env.local
 
 # Local binaries and configs
 simili
 
 
+config.bat
+node_modules
